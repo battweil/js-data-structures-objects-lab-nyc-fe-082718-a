@@ -23,7 +23,9 @@
 // }
 
 const driver =
-{ foo: "bar"};
+{ name: "Sam",
+  address: "11 Broadway"
+};
  function updateDriverWithKeyAndValue(driver, key, value){
   const newDriver = { ...driver };
   newDriver[key] = value;
