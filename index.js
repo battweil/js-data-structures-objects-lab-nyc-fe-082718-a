@@ -4,9 +4,7 @@ const driver = {
 }
 
 function updateDriverWithKeyAndValue(driver, key, value){
-  driver.key = 'placeholder';
-  driver.address = 'placeholder';
-  driver.
+  driver.key = name;
 }
 
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
